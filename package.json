@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-electron",
-  "version": "2.3.2",
+  "version": "3.3.7",
   "description": "Bootstrap as an npm module",
   "repository": "git@github.com:keymux/bootstrap-electron",
   "private": false
